@@ -1,0 +1,23 @@
+Locales['fi'] = {
+	
+	['used_beer'] = '~b~Joit kaljapullon tyhjäksi',
+	['used_longdrink'] = '~b~Joit lonkero tölkin tyhjäksi',
+	['used_siideri'] = '~b~Joit siideri tölkin tyhjäksi',
+	['used_jager'] = '~b~Joit jägermeister shotin',
+	['used_vodka'] = '~b~Joit vodka shotin',
+	['used_rhum'] = '~b~Joit rommi shotin',
+	['used_whisky'] = '~b~Joit viski shotin',
+	['used_tequila'] = '~b~Joit tequila shotin',
+	['used_martini'] = '~b~Joit martini drinkin',
+	['used_jagerbomb'] = '~b~Joit jägerpommi drinkin',
+	['used_golem'] = '~b~Joit golemi drinkin',
+	['used_whiskycoca'] = '~b~Joit viski kola drinkin',
+	['used_vodkaenergy'] = '~b~Joit vodka redbull drinkin',
+	['used_vodkafruit'] = '~b~Joit hedelmä vodka drinkin',
+	['used_rhumfruit'] = '~b~Joit hedelmärommi drinkin',
+	['used_teqpaf'] = '~b~Joit tequila sunrise drinkin',
+	['used_rhumcoca'] = '~b~Joit rommi kola drinkin',
+	['used_mojito'] = '~b~Joit mojito drinkin',
+	['used_metreshooter'] = '~b~Joit lärvilautasen drinkin',
+	['used_jagercerbere'] = '~b~Joit jäger cerbere drinkin',
+}

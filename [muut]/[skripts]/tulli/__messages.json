@@ -1,0 +1,14 @@
+﻿{
+  "Gathering": "📡Haetaan tietoa jonosta🚴‍♀️",
+  "License": "Lisenssi on pakollinen",
+  "Steam": "Steam on pakollinen",
+  "Banned": "Sinut on bännätty",
+  "Whitelist": "Sinua ei ole whitelistattu",
+  "Queue": "Olet jonossa",
+  "PriorityQueue": "Sinä olet prioriteetti jonossa",
+  "Canceled": "Lähdit jonosta",
+  "Error": "An error prevented deferrals",
+  "Timeout": "Exceeded server owners maximum loading time threshold",
+  "QueueCount": "[Jono: {0}]",
+  "Symbols": "No symbols or consecutive spaces are allowed in your name"
+}
